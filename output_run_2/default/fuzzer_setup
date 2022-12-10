@@ -1,0 +1,3 @@
+# environment variables:
+# command line:
+'afl-fuzz' '-i' 'input' '-o' 'output_run_2' '-m' 'none' '-V' '3600' '-D' '--' './afl_main'

@@ -1,0 +1,3 @@
+# environment variables:
+# command line:
+'afl-fuzz' '-i' 'input' '-o' 'output' '-m' 'none' '-t' '2000' '--' './AFL_Heidi_Is_Cool_With_A_Big_B'
